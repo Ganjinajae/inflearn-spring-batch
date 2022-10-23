@@ -12,3 +12,7 @@ Batch는 스케줄러가 아님. Batch Job을 관리하는 역할
   * Annotation Processors 설정 enable
 * Maven
 
+## mysql 설정
+
+* docker로 mysql contianer 설정
+* profile -> mysql
